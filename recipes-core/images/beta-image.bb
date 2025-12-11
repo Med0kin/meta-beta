@@ -8,4 +8,5 @@ IMAGE_FEATURES += " \
 
 IMAGE_INSTALL += " \
     packagegroup-beta-essentials \
+    yarp \
 "
